@@ -20,7 +20,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ### App Walkthrough GIF
 
-<img src="https://i.imgur.com/22f8NTp.gif" width=250><br>
+<img src="https://i.imgur.com/B14PoBd.gif" width=250><br>
 
 ### Notes
 Understanding table view was very rewarding and easy to do. Similarly, setting up the table cell was rather smooth and interesting! I enjoy XCode for how intertwined the graphic elements and the code are and how immediate it is to see those interactions. The only difficulties I experienced were in getting the Bonus User Story involving constraints to work properly, though this only took a few minutes to overcome.
